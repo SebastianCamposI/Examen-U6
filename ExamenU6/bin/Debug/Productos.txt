@@ -1,0 +1,8 @@
+Nombre: iPhone
+Descripción: Tel
+Precio: 20000
+Cantidad: 17
+Nombre: Tele
+Descripción: Tele 2019
+Precio: 40000
+Cantidad: 5
